@@ -15,5 +15,5 @@ version:0.0.0
 <p>2.如果未改写示例组件的展示数据的逻辑，需开启test服务器返回示例数据。</p>
 
 # 后续优化
-<p>webpack配置优化</p>
+<p>webpack配置优化，考虑引入webpack-cli</p>
 <p>提高node服务器代码的健壮性</p>
